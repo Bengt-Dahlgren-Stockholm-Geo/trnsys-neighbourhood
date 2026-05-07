@@ -178,10 +178,25 @@ See the example below:
 ![Select the circulating fluid](images/Excel_fluid.png)
 -->
 <div style="display:flex; gap:15px; align-items:flex-start;">
-<img src="images/Excel_BH.png" alt="Set the borehole properties" width="300
-  <img src="images/Excel_BHs.png" alt="Set the properties of the neighbouring boreholes" width="300"/>
-<img src="images/Excel_Ground.png" alt="Set the ground properties" width="300"/>
-<img src="images/Excel_Fluid.png" alt="Select the circulating fluid" width="300"/>
+  <div style="text-align:center;">
+    <img src="images/Excel_BH.png" alt="Set the borehole properties" height="100"/>
+    <h6 >Set the borehole properties</h6>
+  </div>
+
+  <div style="text-align:center;">
+    <img src="images/Excel_BHs.png" alt="Set the properties of the neighbouring boreholes" height="100"/>
+    <h6>Set the properties of the neighbouring boreholes</h6>
+  </div>
+
+  <div style="text-align:center;">
+    <img src="images/Excel_Ground.png" alt="Set the ground properties" height="100"/>
+    <h6>Set the ground properties</h6>
+  </div>
+
+  <div style="text-align:center;">
+    <img src="images/Excel_Fluid.png" alt="Select the circulating fluid" height="100"/>
+    <h6>Select the circulating fluid properties</h6>
+  </div>
 </div>
 
 
