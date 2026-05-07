@@ -180,8 +180,8 @@ See the example below:
 <div style="display:flex; gap:15px; align-items:flex-start;">
 <img src="images/Excel_BH.png" alt="Set the borehole properties" width="300
   <img src="images/Excel_BHs.png" alt="Set the properties of the neighbouring boreholes" width="300"/>
-<img src="images/Excel_ground.png" alt="Set the ground properties" width="300"/>
-<img src="images/Excel_fluid.png" alt="Select the circulating fluid" width="300"/>
+<img src="images/Excel_Ground.png" alt="Set the ground properties" width="300"/>
+<img src="images/Excel_Fluid.png" alt="Select the circulating fluid" width="300"/>
 </div>
 
 
