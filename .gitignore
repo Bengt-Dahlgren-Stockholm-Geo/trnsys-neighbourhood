@@ -1,0 +1,9 @@
+old/
+notebooks/
+__pycache__/
+.pytest_cache/
+*.txt
+!requirements.txt
+*lst
+*pti
+*log
